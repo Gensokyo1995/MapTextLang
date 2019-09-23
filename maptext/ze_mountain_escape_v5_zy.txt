@@ -256,4 +256,92 @@
 	{
 		"chi"		"** **"
 	}
+	"**CT trigger activated: Immortality in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"*** Minigun has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Space mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Halloween mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Zombie Horde***"
+	{
+		"chi"		"** **"
+	}
+	"***TIP: Work in team - THIS ISNT ZM!***"
+	{
+		"chi"		"** **"
+	}
+	"***You will need to kill a number of zombies to complete the round.***"
+	{
+		"chi"		"** **"
+	}
+	"***They will have low amount of health but no knockback!***"
+	{
+		"chi"		"** **"
+	}
+	"***FIND AN AREA TO HOLD YOUR GROUND AND RESIST! WORK TOGETHER.***"
+	{
+		"chi"		"** **"
+	}
+	"***Earendil light has been picked up.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : One way mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Depression mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Snipers downgraded! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : UFO mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Explosive mode***"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Masturbation view for all in 5 secs. (20 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"***!?***"
+	{
+		"chi"		"** **"
+	}
+	"***Whats that sound?***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: The train is coming.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Space massacre mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Flamethrower has been picked up.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Item Rush mode***"
+	{
+		"chi"		"** **"
+	}
 }

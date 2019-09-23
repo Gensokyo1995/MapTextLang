@@ -132,7 +132,7 @@
 	{
 		"chi"		"**40秒后爆炸**"
 	}
-	"*** 5 SECONDS LEFT ***"
+	"*** 5 seconds left ***"
 	{
 		"chi"		"**还剩5秒**"
 	}
@@ -159,5 +159,13 @@
 	"*** Nuke is coming ***"
 	{
 		"chi"		"**核爆来啦！**"
+	}
+	"*** More area will add in the future***"
+	{
+		"chi"		"** **"
+	}
+	"*** ze_biomes_attack ***"
+	{
+		"chi"		"** **"
 	}
 }

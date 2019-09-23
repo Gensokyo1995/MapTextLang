@@ -45,7 +45,7 @@
 	"***Door breaking in 10secs!***"
 	{
 		"chi"		"**木门 10 秒后破碎！**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	"***Hurry through the warehouse while the carpet passes under!***"
 	{
@@ -66,7 +66,7 @@
 	"***Zombie barrier breaking in 20secs get moving!***"
 	{
 		"chi"		"**僵尸将在 20 秒后突破铁门！**"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"***Hold these crates while someone breaks the barrier and gets the couch going!***"
 	{
@@ -79,6 +79,7 @@
 	"***Hurry under! Zombie block planks breaking in 15secs!***"
 	{
 		"chi"		"**阻拦僵尸的路障将于 15 秒后放下！**"
+		"DoorCountdown"		"-1"
 	}
 	"***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
 	{
@@ -151,22 +152,22 @@
 	"***Cargo door opening in 15secs!***"
 	{
 		"chi"		"**将在 15 秒后打开货舱门！**"
-		"DoorCountdown"		"15"
+		"DoorCountdown"		"0"
 	}
 	"***Emergency doors closing in 10secs!***"
 	{
 		"chi"		"**应急出口的门将在 10 秒后关闭！**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	"***Boxcar door opening in 10secs!***"
 	{
 		"chi"		"**货舱门将于 10 秒后打开！**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	"***Final express door opening in 25secs!***"
 	{
 		"chi"		"**最后的大门将在 25 秒后打开！对僵尸的防守不要松懈！**"
-		"DoorCountdown"		"25"
+		"DoorCountdown"		"0"
 	}
 	"***LEVEL-- CITY NIGHT ESCAPE***"
 	{
@@ -175,7 +176,7 @@
 	"***Elevator 1 coming in 10secs!***"
 	{
 		"chi"		"**一号电梯门将于10秒后打开**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	"***Elevator 1 leaving in 5secs!***"
 	{
@@ -293,7 +294,7 @@
 	"***Valves unlocked in 35secs!***"
 	{
 		"chi"		"**水阀将在 35 秒后解锁！**"
-		"DoorCountdown"		"35"
+		"DoorCountdown"		"0"
 	}
 	"***Shoot the Block!***"
 	{
@@ -326,7 +327,7 @@
 	"***Defend for 35secs as the Carpet...refuels...?***"
 	{
 		"chi"		"**守卫魔毯 35 秒...加油...？**"
-		"DoorCountdown"		"35"
+		"DoorCountdown"		"0"
 	}
 	"***Carpet leaves in 5secs!***"
 	{
@@ -343,7 +344,7 @@
 	"***Hold the sign for 20secs!***"
 	{
 		"chi"		"** 守住这个地方 20 秒！**"
-		"DoorCountdown"		"20"
+		"DoorCountdown"		"0"
 	}
 	"***FINAL BOSS INCOMING!***"
 	{
@@ -396,7 +397,7 @@
 	"***PORTAL COLLAPSING IN 10secs!! ***"
 	{
 		"chi"		"** 球型传送门将在 10 秒后消失！！**"
-		"DoorCountdown"		"10"
+		"DoorCountdown"		"0"
 	}
 	"***JUMP INTO THE ORB!!***"
 	{

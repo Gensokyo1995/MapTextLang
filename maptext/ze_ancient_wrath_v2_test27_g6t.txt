@@ -192,4 +192,28 @@
 	{
 		"chi"		"** **"
 	}
+	"||| ZOMBIE HELICOPTER - WIN DISABLE |||"
+	{
+		"chi"		"** **"
+	}
+	"||| CHAPTER 4 => SHOWDOWN |||"
+	{
+		"chi"		"** **"
+	}
+	"||| HOLD THIS POSITION FOR 30 SECONDS |||"
+	{
+		"chi"		"** **"
+	}
+	"||| PREPARE TO FALL BACK |||"
+	{
+		"chi"		"** **"
+	}
+	"||| DESTROY BOTH ELEVATOR BUTTONS |||"
+	{
+		"chi"		"** **"
+	}
+	"||| ELEVATOR LEAVES IN 15 SECONDS |||"
+	{
+		"chi"		"** **"
+	}
 }

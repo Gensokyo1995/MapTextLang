@@ -617,4 +617,12 @@
 	{
 		"chi"		"** **"
 	}
+	"<< You only have 10 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Admin select INSANE MODE >>"
+	{
+		"chi"		"** **"
+	}
 }
