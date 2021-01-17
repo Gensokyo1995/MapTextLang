@@ -116,17 +116,6 @@
 	{
 		"chi"		"**路上不会有陷阱**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_lockroundtime 15"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-	}
 	"** 2 **"
 	{
 		"chi"		"** **"
@@ -449,7 +438,7 @@
 	}
 	"** CARTOON WEIGHTS ARE BECOMING REAL! **"
 	{
-		"chi"		"**CARTOON WEIGHTS ARE BECOMING REAL!**"
+		"chi"		"** **"
 	}
 	"** FREEZERS! **"
 	{
@@ -469,7 +458,7 @@
 	}
 	"** The top has been reached! The VIP should get there in less than 90 seconds before everything is over! **"
 	{
-		"chi"		"** **"
+		"chi"		"**已到达山顶!VIP必须在90秒内到达山顶! **"
 	}
 	"** THE VIP HAS DIED! **"
 	{

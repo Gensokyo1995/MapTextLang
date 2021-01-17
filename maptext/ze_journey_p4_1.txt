@@ -5,11 +5,9 @@
 		"command"		"mp_roundtime 25.0"
 		"force_round_end"		"1"
 		"chi"		"**门在20秒后开启**"
-		"DoorCountDown"		"20"
 	}
 	"*** Door opening in 5 seconds ***"
 	{
-		"command"		"mp_roundtime 25.0"
 		"chi"		"**门在5秒后开启**"
 	}
 	"*** Boats departing in 20 seconds ***"
@@ -50,11 +48,12 @@
 	}
 	"*** 5 seconds left ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"*** All 4 levers activated ***"
 	{
 		"chi"		"**4个开关已被按下**"
+		"DoorCountdown"		"-1"	
 	}
 	"*** Gate opening in 15 seconds ***"
 	{
@@ -75,7 +74,6 @@
 	"*** Gate opening in 20 seconds ***"
 	{
 		"chi"		"**大门20秒后开启**"
-		"DoorCountDown"		"20"
 	}
 	"*** Celestial Embrace has been acquired ***"
 	{
@@ -88,7 +86,6 @@
 	"*** Platform rising in 15 seconds ***"
 	{
 		"chi"		"**平台15秒后上升**"
-		"DoorCountDown"		"15"
 	}
 	"*** Left lever activated ***"
 	{
@@ -101,7 +98,6 @@
 	"*** Final door opening in 30 seconds ***"
 	{
 		"chi"		"**最后的大门将在30秒后开启**"
-		"DoorCountDown"		"30"
 	}
 	"*** Final door opening in 5 seconds ***"
 	{
@@ -114,13 +110,5 @@
 	"*** Humans win! ***"
 	{
 		"chi"		"**人类胜利**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"53066"
 	}
 }

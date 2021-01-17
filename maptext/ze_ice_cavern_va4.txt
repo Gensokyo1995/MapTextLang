@@ -2,105 +2,90 @@
 {
 	"<<< Cavern door opens in 45 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**山洞大门将在45秒后打开 **"
 	}
 	"<<< Outside door closes in 15 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**外门将在15秒后开始关闭 **"
 	}
 	"<<< Ice breaking in 60 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**冰墙将在60秒后破碎 **"
 	}
 	"<<< Zombies teleport in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在30秒后传送 **"
 	}
 	"<<< Ice breaks in 45 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**冰墙将在45秒后破碎 **"
 	}
 	"<<< Gate opens in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在30秒后打开 **"
 	}
 	"<<< Gastly Wind >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**鬼风**"
 	}
 	"<<< Gates open in 10 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开 **"
 	}
 	"<<< Crystals break in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**水晶将在30秒后破碎 **"
 	}
 	"<<< Bar door opens in 30 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在30秒后打开 **"
 	}
 	"<<< Killzone >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**毁灭红光 **"
 	}
 	"<<< Replenish >>>"
 	{
-		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_he_limit 10"
-		}
-		"1"
-		{
-			"cvar"		"sm_smoke_limit 7"
-		}
-		"2"
-		{
-			"cvar"		"sm_molotov_limit 6"
-		}
+		"chi"		"**恢复**"
 	}
 	"<<< Zombies teleport in 60 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在60秒后传送 **"
 	}
 	"<<< Bridge appearing in 5 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**桥将在5秒后显现 **"
 	}
 	"<<< Icicles break in 10 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**冰墙将在10秒后破碎 **"
 	}
 	"<<< Blade stopping! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**旋转冰针已停下 **"
 	}
 	"<<< Zombies teleport in 45 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在45秒后传送 **"
 	}
 	"<<< Gate opens in 60 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在60秒后打开 **"
 	}
 	"<<< Zombies teleport in 20 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在20秒后传送 **"
 	}
 	"<<< Last hold! Hold for 60 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个守点，坚守60秒 **"
 	}
 	"<<< Ladder on side of platform has been broken watch out!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**平台边上的梯子已开放，小心 **"
 	}
 	"<<< 25 more seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**再守25秒 **"
 	}
 }

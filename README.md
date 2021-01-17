@@ -2,10 +2,23 @@
 
 如果要修改其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
 
+#### 文件验证同步是否成功判断【限当前地图】
+
+
+1. sm_findentitybytargetname 指令可以检查同步实体targetname情况 [权限等级:OP]
+;例如 sm_findentitybytargetname 20191111 如果当前地图存在包含此实体的targetname 那么都会显示出来
+;没有找到则不会输出任何东西
+
+2. sm_gitsync_check_cureentmap_user 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:任何玩家 间隔限制 300秒]
+3. sm_gitsync_check_cureentmap 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:OP 或 已认证Mapper用户]
+
 ## 参数修改规则
 
 游戏平衡性由地图保证，若地图过于不平衡请通知OP进行下架或者调整。一般情况不得额外修改服务器参数；如果出现极度严重不平衡，可以额外修改参数。所有参数修改必须通过PR提交，并且通过OP审核后方可合并到服务器。
-=========所有参数修改必须说明原因 任何掺杂个人因素的修改全部驳回=========
+
+包括通过修改stripper修改地图内置参数，神器配置以及地图实体等实现调整地图难度也需要提供修改理由
+
+**所有参数修改必须说明原因 任何掺杂个人因素的修改全部驳回**
 
 **不得应个人要求 个人喜欢,等个人因素 而设定参数**
 
@@ -26,6 +39,9 @@
 | entwatch | [神器显示配置](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md)   |
 | maptext  | [ZE地图翻译](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md)     |
 | bosshit  | [BOSS攻击奖励](https://github.com/MapTextLang/MapTextLang/blob/master/其他修改说明.md)   |
+| scripts  | [vscript脚本提交](https://github.com/MapTextLang/MapTextLang/blob/master/scripts/vscripts/README.md)   |
+| private_stripper_uploader.json  | [根据论坛UID允许上传私有Stripper](https://bbs.93x.net/plugin.php?id=xnet_mappost:p_stripper_post)    |
+
 
 ---
 
@@ -50,8 +66,9 @@
 编辑原因填写为 "triggercleanup" 即可清理同步缓存
 如果因为文件名错误  或者 小大写错误 则必须执行清理同步缓存
 
-#trigger update10
-test for web hook
-#push trigger update p 2
-triggercleanup 最后维护
-    2019年9月19日00:13
+#trigger update11
+test for web hook triggercleanup
+#push trigger update p 3
+triggercleanup  最后维护
+    2020年11月21日
+    

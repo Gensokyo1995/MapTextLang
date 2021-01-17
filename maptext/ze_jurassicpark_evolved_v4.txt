@@ -3,11 +3,10 @@
 	"** The gate will open in 35 seconds **"
 	{
 		"chi"		"**大门35秒后打开**"
-		"DoorCountdown"		"35"
 	}
 	"** Get Ready **"
 	{
-		"chi"		"** **"
+		"chi"		"**做好准备 **"
 	}
 	"** RUN! **"
 	{
@@ -19,7 +18,7 @@
 	}
 	"** Generator override enabled **"
 	{
-		"chi"		"** **"
+		"chi"		"**发电机超载激活 **"
 	}
 	"** Power has been lost to Jurassic Park **"
 	{

@@ -2,15 +2,15 @@
 {
 	"**Map made by Eugenio *Motanum* Roman**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者: Eugenio**"
 	}
 	"**Contact me at eugenio.motanum91 AT gmail.com**"
 	{
-		"chi"		"** **"
+		"chi"		"**通过eugenio.motanum91@gmail.com 联系我 **"
 	}
 	"**Thanks to [PF] PlagueFest for their support!**"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢[PF] PlagueFest的帮助 **"
 	}
 	"***Obtain the plans to a secret rocket launch pad!***"
 	{
@@ -54,7 +54,7 @@
 	}
 	"**T minus 10 seconds**"
 	{
-		"chi"		"**倒数十秒，守住！**"
+		"chi"		"**倒数10秒，守住！**"
 	}
 	"**Gates are opening and barriers are online!**"
 	{
@@ -86,16 +86,15 @@
 	}
 	"**T minus 45s for detonation**"
 	{
-		"chi"		"**C4还有45秒爆破**"
-		"DoorCountDown"		"45"
+		"chi"		"**炸弹还有45秒爆破**"
 	}
 	"**T minus 30s for detonation**"
 	{
-		"chi"		"**C4还有30秒爆破**"
+		"chi"		"**炸弹还有30秒爆破**"
 	}
 	"**T minus 15s for detonation**"
 	{
-		"chi"		"**C4还有15秒爆破**"
+		"chi"		"**炸弹还有15秒爆破**"
 	}
 	"**Blast door system is broken!**"
 	{
@@ -155,42 +154,38 @@
 	}
 	"***Zombies reached rescue vehicle!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达了援救飞机 **"
 	}
 	"***Difficulty will not change***"
 	{
-		"chi"		"** **"
+		"chi"		"**难度将不会变化 **"
 	}
 	"***Executing game reset****"
 	{
-		"chi"		"** **"
+		"chi"		"**地图重置 **"
 	}
 	"***Suicide level complete!***"
 	{
-		"chi"		"** **"
+		"chi"		"**自杀关卡完成 **"
 	}
 	"***Suicide difficulty will stay***"
 	{
-		"chi"		"** **"
+		"chi"		"**自杀难度将会保持 **"
 	}
 	"***Use admin room to change difficulty***"
 	{
-		"chi"		"** **"
+		"chi"		"**通关管理员房间改变难度 **"
 	}
 	"***Selecting default difficulty****"
 	{
-		"chi"		"** **"
+		"chi"		"**选择默认难度 **"
 	}
 	"***Waiting for players****"
 	{
-		"chi"		"** **"
+		"chi"		"**等待玩家 **"
 	}
 	"***Reseting game in 20 seconds****"
 	{
-		"chi"		"** **"
-	}
-	"The se"
-	{
-		"chi"		"** **"
+		"chi"		"**20秒后重启回合 **"
 	}
 }

@@ -34,7 +34,7 @@
 	}
 	"***The LeftGate is going to open***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住至左侧大门打开**"
 		"DoorCountdown"		"40"
 	}
 	"***Hold 25seconds***"
@@ -65,7 +65,7 @@
 	}
 	"***The RightGate is going to open***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住至右侧大门打开**"
 		"DoorCountdown"		"40"
 	}
 	"***Hold 30seconds***"
@@ -126,7 +126,7 @@
 	}
 	"*** The Gates are going to open ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住至两侧大门打开**"
 		"DoorCountdown"		"45"
 	}
 	"*A player has picked up Ice Magic*"
@@ -178,5 +178,121 @@
 	{
 		"DoorCountdown"		"3"
 		"chi"		"**重力（S抵抗）**"
+	}
+	"< ??? >"
+	{
+		"chi"		"** **"
+	}
+	"***Failed***"
+	{
+		"chi"		"** **"
+	}
+	"*** A zombie picked up Ice Magic ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The vents are going to open ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Golem Ahglan Defeated ***"
+	{
+		"chi"		"** **"
+	}
+	"***You won Soul Mode***"
+	{
+		"chi"		"** **"
+	}
+	"[TheLast Mode]"
+	{
+		"chi"		"** **"
+	}
+	"*** Ancient Elculous Defeated ***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold 20seconds***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Double Hands Stamp ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Escape ***"
+	{
+		"chi"		"** **"
+	}
+	"***The Last gates will open in 190seconds***"
+	{
+		"chi"		"** **"
+	}
+	"*** 180seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Open in 10seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 100seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Open in 20seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 50seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*A player has picked up Ancient Earth Magic*"
+	{
+		"chi"		"** **"
+	}
+	"*** Grim Reaper defeated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend ***"
+	{
+		"chi"		"** **"
+	}
+	"*** !? ***"
+	{
+		"chi"		"** 这是什么!?准备迎接黑刀!!!10秒后门完全关闭 **"
 	}
 }

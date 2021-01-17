@@ -1,13 +1,5 @@
 "Console_T"
 {
-	"
-		"		"chi"
-	"		"		"
-		"
-	"**地图：西瓜橘子"		"		"
-	"地图翻译：纯白镇安吉拉"		"
-		"
-	"**"		"		"
 	"***Tram leaving in 10secs.***"
 	{
 		"chi"		"**有轨电车10秒后离开**"
@@ -75,7 +67,6 @@
 	"***Gate opening in 75secs.***"
 	{
 		"chi"		"**大门75秒后打开**"
-		"DoorCountDown"		"75"
 	}
 	"***Gate opening in 30secs.***"
 	{
@@ -95,7 +86,7 @@
 	}
 	"***...WashBucket leaving in 5secs...Seriously?***"
 	{
-		"chi"		"** **"
+		"chi"		"**澡盆将在5秒后离开...认真的? **"
 	}
 	"***Boat 1 leaving in 10secs.***"
 	{
@@ -122,10 +113,6 @@
 		"chi"		"** **"
 	}
 	"***1***"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
 	}

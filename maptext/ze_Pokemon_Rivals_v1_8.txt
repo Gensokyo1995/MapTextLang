@@ -888,4 +888,28 @@
 	{
 		"chi"		"** **"
 	}
+	"Enemy SQUIRTLE used TAILWHIP!"
+	{
+		"chi"		"** **"
+	}
+	">>All POKEMON that appear in battle,<<"
+	{
+		"chi"		"** **"
+	}
+	">>however briefly, earn EXP Points.<<"
+	{
+		"chi"		"** **"
+	}
+	"DIGLETT used GROWL!"
+	{
+		"chi"		"** **"
+	}
+	"DIGLETT used SCRATCH!"
+	{
+		"chi"		"** **"
+	}
+	"Enemy DIGLETT used GROWL!"
+	{
+		"chi"		"** **"
+	}
 }

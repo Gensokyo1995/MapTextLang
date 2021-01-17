@@ -1,610 +1,12 @@
-"Console_GameText"
+"Console_T"
 {
-	"Introduction"
-	{
-		"chi"		"**介绍 **"
-	}
-	"ze_bioshock
-by DormantLemon"
-	{
-		"chi"		"**地图作者：DormantLemon 翻译更正：清新的二哈♪**"
-	}
-	"0m 59s"
-	{
-		"chi"		"**59秒 **"
-	}
-	"0m 58s"
-	{
-		"chi"		"**58秒 **"
-	}
-	"0m 57s"
-	{
-		"chi"		"**57秒 **"
-	}
-	"0m 56s"
-	{
-		"chi"		"**56秒 **"
-	}
-	"0m 55s"
-	{
-		"chi"		"**55秒 **"
-	}
-	"0m 54s"
-	{
-		"chi"		"**54秒 **"
-	}
-	"0m 53s"
-	{
-		"chi"		"**53秒 **"
-	}
-	"0m 52s"
-	{
-		"chi"		"**52秒 **"
-	}
-	"0m 51s"
-	{
-		"chi"		"**51秒 **"
-	}
-	"0m 50s"
-	{
-		"chi"		"**50秒 **"
-	}
-	"0m 49s"
-	{
-		"chi"		"**49秒 **"
-	}
-	"0m 48s"
-	{
-		"chi"		"**48秒 **"
-	}
-	"0m 47s"
-	{
-		"chi"		"**47秒 **"
-	}
-	"0m 46s"
-	{
-		"chi"		"**46秒 **"
-	}
-	"0m 45s"
-	{
-		"chi"		"**45秒 **"
-	}
-	"0m 44s"
-	{
-		"chi"		"**44秒 **"
-	}
-	"0m 43s"
-	{
-		"chi"		"**43秒 **"
-	}
-	"0m 42s"
-	{
-		"chi"		"**42秒 **"
-	}
-	"0m 41s"
-	{
-		"chi"		"**41秒 **"
-	}
-	"0m 40s"
-	{
-		"chi"		"**40秒 **"
-	}
-	"0m 39s"
-	{
-		"chi"		"**39秒 **"
-	}
-	"0m 38s"
-	{
-		"chi"		"**38秒 **"
-	}
-	"0m 37s"
-	{
-		"chi"		"**37秒 **"
-	}
-	"0m 36s"
-	{
-		"chi"		"**36秒 **"
-	}
-	"0m 35s"
-	{
-		"chi"		"**35秒 **"
-	}
-	"0m 34s"
-	{
-		"chi"		"**34秒 **"
-	}
-	"0m 33s"
-	{
-		"chi"		"**33秒 **"
-	}
-	"0m 32s"
-	{
-		"chi"		"**32秒 **"
-	}
-	"0m 31s"
-	{
-		"chi"		"**31秒 **"
-	}
-	"0m 30s"
-	{
-		"chi"		"**30秒 **"
-	}
-	"0m 29s"
-	{
-		"chi"		"**29秒 **"
-	}
-	"0m 28s"
-	{
-		"chi"		"**28秒 **"
-	}
-	"0m 27s"
-	{
-		"chi"		"**27秒 **"
-	}
-	"0m 26s"
-	{
-		"chi"		"**26秒 **"
-	}
-	"0m 25s"
-	{
-		"chi"		"**25秒 **"
-	}
-	"0m 24s"
-	{
-		"chi"		"**24秒 **"
-	}
-	"0m 23s"
-	{
-		"chi"		"**23秒 **"
-	}
-	"0m 22s"
-	{
-		"chi"		"**22秒 **"
-	}
-	"0m 21s"
-	{
-		"chi"		"**21秒 **"
-	}
-	"0m 20s"
-	{
-		"chi"		"**20秒 **"
-	}
-	"0m 19s"
-	{
-		"chi"		"**19秒 **"
-	}
-	"0m 18s"
-	{
-		"chi"		"**18秒 **"
-	}
-	"0m 17s"
-	{
-		"chi"		"**17秒 **"
-	}
-	"0m 16s"
-	{
-		"chi"		"**16秒 **"
-	}
-	"0m 15s"
-	{
-		"chi"		"**15秒 **"
-	}
-	"0m 14s"
-	{
-		"chi"		"**14秒 **"
-	}
-	"0m 13s"
-	{
-		"chi"		"**13秒 **"
-	}
-	"0m 12s"
-	{
-		"chi"		"**12秒 **"
-	}
-	"0m 11s"
-	{
-		"chi"		"**11秒 **"
-	}
-	"0m 10s"
-	{
-		"chi"		"**10秒 **"
-	}
-	"0m 09s"
-	{
-		"chi"		"**9秒 **"
-	}
-	"0m 08s"
-	{
-		"chi"		"**8秒 **"
-	}
-	"0m 07s"
-	{
-		"chi"		"**7秒 **"
-	}
-	"0m 06s"
-	{
-		"chi"		"**6秒 **"
-	}
-	"0m 05s"
-	{
-		"chi"		"**5秒 **"
-	}
-	"0m 04s"
-	{
-		"chi"		"**4秒 **"
-	}
-	"0m 03s"
-	{
-		"chi"		"**3秒 **"
-	}
-	"0m 02s"
-	{
-		"chi"		"**2秒 **"
-	}
-	"0m 01s"
-	{
-		"chi"		"**1秒 **"
-	}
-	"Chapter 1 - Welcome to Rapture"
-	{
-		"chi"		"**第一章-欢迎来到销魂城 **"
-	}
-	"Difficulty - Hard"
-	{
-		"chi"		"**难度-困难 **"
-	}
-	"Wait for Bathysphere arrival"
-	{
-		"chi"		"**等待潜水装置的到来 **"
-	}
-	"Bathysphere is docking..."
-	{
-		"chi"		"**潜水装置对接… **"
-	}
-	"Get in the Bathysphere"
-	{
-		"chi"		"**进入潜水装置 **"
-	}
-	"Tonic Static Shell
-Effect: Shock those who harm you with Electric Flesh! Stun splicers on death
-Activation: Contact with a splicer"
-	{
-		"chi"		"**基因强化补给：静电罩 
-效果：你的身体获得静电罩强化，当你阵亡时，会把小范围敌人定身。 
-激活方法：触碰僵尸。**"
-	}
-	"Plasmid: Incinerate
-Effect: Ignite splicers with a fireball! 
-Duration: 7 Secs
-Uses: 8(Easy)  5(Hard)
-Cooldown: 5 Secs"
-	{
-		"chi"		"焚化质粒
-++效果：产生小范围的大火！
-++持续时间：7秒
-++使用次数：8次（简单难度）5次（困难难度）
-++冷却时间：5秒"
-	}
-	"Plasmid: Gravity Well
-Effect: Drag your enemies into a pit! 
-Duration: 5 Secs 
-Uses: 5(Easy)  3(Hard)
-Cooldown: 18 Secs"
-	{
-		"chi"		"重力质粒
-++效果:把僵尸吸到一起!
-++持续时间:5秒
-++使用次数:5次(简单难度)3次(困难难度)
-++冷却时间:18秒"
-	}
-	"Hold the Atrium"
-	{
-		"chi"		"** **"
-	}
-	"Plasmid: Electro Bolt
-Effect: Stun splicers with a bolt of electricity!
-Duration: 4 Secs 
-Uses: 6(Easy)  4(Hard)
-Cooldown: 11 Secs"
-	{
-		"chi"		"闪电质粒
-++效果:定身小范围的僵尸!
-++持续时间:4秒
-++使用次数:6次(简单难度)4次（困难难度）
-++冷却时间:11秒"
-	}
-	"Difficulty - Easy"
-	{
-		"chi"		"**难度-简单 **"
-	}
-	"Plasmid: Winter Blast
-Effect: Freeze your enemies! 
-Duration: 3 Secs 
-Uses: 5(Hard)  3(Easy)
-Cooldown: 13 Secs"
-	{
-		"chi"		"寒霜质粒
-++效果:冻结并减速僵尸!
-++持续时间:3秒
-++使用次数:5次(简单难度)3次(困难难度)
-++冷却时间:13秒"
-	}
-	"Hold until security door releases"
-	{
-		"chi"		"**守住.直到安全门开启 **"
-	}
-	"Wait for the elevator's arrival"
-	{
-		"chi"		"**等待电梯的到来 **"
-	}
-	"Tonic Flash Flare
-Effect: Your flesh is glowing. Blind the enemies when you die! 
-Activation: Contact with a splicer"
-	{
-		"chi"		"**基因强化补给：闪光 
-效果：你的身体获得闪光强化，当你阵亡时，会把敌人闪瞎。 
-激活方法：触碰僵尸。**"
-	}
-	"Plasmid: Sonic Boom
-Effect: Blast splicers away with an airwave!
-Duration: 2 Secs
-Uses: 8(Easy)  5(Hard)
-Cooldown: 10 Secs"
-	{
-		"chi"		"音爆质粒
-++效果:使用后会把僵尸推开!
-++持续时间:2秒
-++使用次数:8次(简单难度)5次(困难难度)
-++冷却时间:10秒"
-	}
-	"Elevator 1 is leaving"
-	{
-		"chi"		"**电梯1离开 **"
-	}
-	"Hold until the security door releases"
-	{
-		"chi"		"**守住.直到安全门开启 **"
-	}
-	"Rapture Metro is inbound"
-	{
-		"chi"		"**销魂城地铁进站了 **"
-	}
-	"Board and defend the Rapture Metro"
-	{
-		"chi"		"**进入地铁并守住 **"
-	}
-	"Chapter 2 - Siren Alley & Fort Frolic"
-	{
-		"chi"		"**第二章-海妖街与欢乐要塞 **"
-	}
-	"Wait for Siren Alley doors to unlock"
-	{
-		"chi"		"**等待海妖街大门解锁 **"
-	}
-	"Hide or hold until the exit has drained"
-	{
-		"chi"		"**存活并守住-直到出口打开 **"
-	}
-	"1m 23s"
-	{
-		"chi"		"**1分23秒 **"
-	}
-	"1m 22s"
-	{
-		"chi"		"**1分22秒 **"
-	}
-	"1m 21s"
-	{
-		"chi"		"**1分21秒 **"
-	}
-	"1m 20s"
-	{
-		"chi"		"**1分20秒 **"
-	}
-	"1m 19s"
-	{
-		"chi"		"**1分19秒 **"
-	}
-	"1m 18s"
-	{
-		"chi"		"**1分18秒 **"
-	}
-	"1m 17s"
-	{
-		"chi"		"**1分17秒 **"
-	}
-	"1m 16s"
-	{
-		"chi"		"**1分16秒 **"
-	}
-	"1m 15s"
-	{
-		"chi"		"**1分15秒 **"
-	}
-	"1m 14s"
-	{
-		"chi"		"**1分14秒 **"
-	}
-	"1m 13s"
-	{
-		"chi"		"**1分13秒 **"
-	}
-	"1m 12s"
-	{
-		"chi"		"**1分12秒 **"
-	}
-	"1m 11s"
-	{
-		"chi"		"**1分11秒 **"
-	}
-	"1m 10s"
-	{
-		"chi"		"**1分10秒 **"
-	}
-	"1m 09s"
-	{
-		"chi"		"**1分09秒 **"
-	}
-	"1m 08s"
-	{
-		"chi"		"**1分08秒 **"
-	}
-	"1m 07s"
-	{
-		"chi"		"**1分07秒 **"
-	}
-	"1m 06s"
-	{
-		"chi"		"**1分06秒 **"
-	}
-	"1m 05s"
-	{
-		"chi"		"**1分05秒 **"
-	}
-	"1m 04s"
-	{
-		"chi"		"**1分04秒 **"
-	}
-	"1m 03s"
-	{
-		"chi"		"**1分03秒 **"
-	}
-	"1m 02s"
-	{
-		"chi"		"**1分02秒 **"
-	}
-	"1m 01s"
-	{
-		"chi"		"**1分01秒 **"
-	}
-	"1m 00s"
-	{
-		"chi"		"**1分00秒 **"
-	}
-	"Hold the Decompression Chamber"
-	{
-		"chi"		"**守住这里 **"
-	}
-	"Defend until Cohen opens the doors"
-	{
-		"chi"		"**直到Cohen打开大门 **"
-	}
-	"Hold the doorway"
-	{
-		"chi"		"**守住门口 **"
-	}
-	"Plasmid: Insect Swarm
-Effect: Harm splicers with a swarm of bees
-Uses: 5(Easy)  3(Hard) 
-Cooldown: 10 Secs"
-	{
-		"chi"		"蜂群质粒
-++效果：产生一大群蜜蜂伤害僵尸
-++使用次数：5次（简单难度）3次（困难难度）
-++冷却时间：10秒 **"
-	}
-	"Defeat Sander Cohen"
-	{
-		"chi"		"**击败Sander Cohen **"
-	}
-	"Stairs are open"
-	{
-		"chi"		"**楼梯已开放 **"
-	}
-	"Wait for Poseidon Plaza to unfreeze"
-	{
-		"chi"		"**等待海神广场解冻 **"
-	}
-	"Defend while the door unfreezes"
-	{
-		"chi"		"**守住.直到大门解冻 **"
-	}
-	"Defend Jasmine Jolie's room"
-	{
-		"chi"		"**守住Jasmine Jolie's的房间 **"
-	}
-	"Chapter 3 - Arcadia"
-	{
-		"chi"		"**第3章 - 阿卡迪亚 **"
-	}
-	"Hold the balcony"
-	{
-		"chi"		"**守住阳台 **"
-	}
-	"Hold Julie Langford's Garden"
-	{
-		"chi"		"**守住朱莉兰福德的花园 **"
-	}
-	"Wait for Hydroponics Drainage to empty"
-	{
-		"chi"		"**等待水排干净 **"
-	}
-	"Hold until the security door unlocks"
-	{
-		"chi"		"**直到安全门解锁 **"
-	}
-	"Detonate and destroy the tunnel"
-	{
-		"chi"		"**引爆炸弹并摧毁隧道 **"
-	}
-	"Splicers must not make it past the marker"
-	{
-		"chi"		"**不能让僵尸越过最后的标记线！ **"
-	}
-	"ze_bioshock
-by DormantLemon"
-	{
-		"chi"		"**地图作者：DormantLemon 翻译更正：清新的二哈♪**"
-	}
-	"Plasmid: Incinerate
-Effect: Ignite splicers with a fireball! 
-Duration: 7 Secs
-Uses: 8(Easy)  5(Hard)
-Cooldo"
-	{
-		"chi"		"**焚化质粒
-++效果：产生一定范围的大火！
-++持续时间：7秒
-++使用次数：8次（简单难度）5次（困难难度）
-++冷却时间：5秒 **"
-	}
-	"Plasmid: Electro Bolt
-Effect: Stun splicers with a bolt of electricity!
-Duration: 4 Secs 
-Uses: 6(Easy)  4(H"
-	{
-		"chi"		"**闪电质粒
-++效果:定身一定范围的僵尸!
-++持续时间:4秒
-++使用次数:6次(简单难度)4次（困难难度）
-++冷却时间:11秒 **"
-	}
-	"Tonic Flash Flare
-Effect: Your flesh is glowing. Blind the enemies when you die! 
-Activation: Contact with a"
-	{
-		"chi"		"**基因强化补给：闪光 效果:你的身体获得闪光强化,当你阵亡时，会把敌人闪瞎。 激活方法：触碰僵尸**"
-	}
-	"Plasmid: Gravity Well
-Effect: Drag your enemies into a pit! 
-Duration: 5 Secs 
-Uses: 5(Easy)  3(Hard)
-Cooldo"
-	{
-		"chi"		"**
-		重力质粒
-++效果:把僵尸吸到一起!
-++持续时间:5秒
-++使用次数:5次(简单难度)3次(困难难度)
-++冷却时间:18秒 **"
-	}
 	">>ze_bioshock<<"
 	{
 		"chi"		"**ze_bioshock **"
 	}
 	">>Map by DormantLemon<<"
 	{
-		"chi"		"**地图作者：DormantLemon 翻译更正：清新的二哈♪**"
+		"chi"		"**地图作者：DormantLemon 翻译更正：清新的二哈?**"
 	}
 	">>Introduction<<"
 	{
@@ -621,30 +23,37 @@ Cooldo"
 	">>TIP #1: Big Daddy is immensely strong. Dont let him get close<<"
 	{
 		"chi"		"**提示1：大老爹非常强壮.不要让他靠近你们 **"
+		"DoorCountdown"		"-1"
 	}
 	">>TIP #2: Repeated losses will make the map easier. Dont give up!<<"
 	{
 		"chi"		"**提示2:多次通关失败会使地图更容易，不要放弃! **"
+		"DoorCountdown"		"-1"
 	}
 	">>TIP #3: Plasmids are limited use. Keep count!<<"
 	{
 		"chi"		"**提示3：质粒的使用受到限制,酌情使用！ **"
+		"DoorCountdown"		"-1"
 	}
 	">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<"
 	{
 		"chi"		"**提示4：在商店升级你的质粒，升级是永久性的，请谨慎选择！ **"
+		"DoorCountdown"		"-1"
 	}
 	">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<"
 	{
 		"chi"		"**提示5:小妹妹可以收获尸体来给予队友基因强化，搜索尸体！ **"
+		"DoorCountdown"		"-1"
 	}
 	">>TIP #6: Gene Tonics take effect on death. Dont die in vain!<<"
 	{
 		"chi"		"**提示6：基因强化在死亡时生效，不要白白牺牲！ **"
+		"DoorCountdown"		"-1"
 	}
 	">>TIP #7: Lost health? Visit a health station to recover it!<<"
 	{
 		"chi"		"**提示7：HP减少了？你可以去加血站恢复它！ **"
+		"DoorCountdown"		"-1"
 	}
 	">>>Introduction Complete<<<"
 	{
@@ -713,6 +122,7 @@ Cooldo"
 	"*AFK teleport in 5s*"
 	{
 		"chi"		"**挂机玩家5秒后传送 **"
+		"DoorCountdown"		"-1"
 	}
 	">>SECRET: Found the Bird Token<<"
 	{
@@ -721,10 +131,12 @@ Cooldo"
 	">>Elevator 1 leaving - 5s<<"
 	{
 		"chi"		"**1号电梯离开-5秒 **"
+		"DoorCountdown"		"-1"
 	}
 	">>Elevator 2 leaving - 5s<<"
 	{
 		"chi"		"**2号电梯离开-5秒 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid obtained: Incinerate***"
 	{
@@ -765,10 +177,12 @@ Cooldo"
 	"*Splicers have been blocked for 8 seconds*"
 	{
 		"chi"		"**僵尸被封锁8秒 **"
+		"DoorCountdown"		"-1"
 	}
 	"*Splicers have been blocked for 6 seconds*"
 	{
 		"chi"		"**僵尸被封锁6秒 **"
+		"DoorCountdown"		"-1"
 	}
 	">>Hide or hold until the exit has drained - 84s<<"
 	{
@@ -777,10 +191,12 @@ Cooldo"
 	"*Splicers have been blocked for 4 seconds*"
 	{
 		"chi"		"**僵尸被封锁4秒 **"
+		"DoorCountdown"		"-1"
 	}
 	"*Splicers have been blocked for 2 seconds*"
 	{
 		"chi"		"**僵尸被封锁2秒 **"
+		"DoorCountdown"		"-1"
 	}
 	"*Splicers have been freed!*"
 	{
@@ -860,11 +276,12 @@ Cooldo"
 	}
 	">>Wait for Trophy Room access - 35s<<"
 	{
-		"chi"		"**等待Trophy Room大门打开-35秒 **"
+		"chi"		"**35秒-等待Trophy Room大门打开 **"
 	}
 	">>AFK Teleport in 5s<<"
 	{
 		"chi"		"**挂机玩家5秒后传送 **"
+		"DoorCountdown"		"-1"
 	}
 	">>Evaporate the flood water<<"
 	{
@@ -877,7 +294,7 @@ Cooldo"
 	">>Laser incoming<<"
 	{
 		"chi"		"**准备跳刀！ **"
-		"DoorCountdown"		"2"
+		"DoorCountdown"		"3"
 	}
 	">>Elevator will be leaving soon<<"
 	{
@@ -919,10 +336,12 @@ Cooldo"
 	">>Extra Chapter - 1999<<"
 	{
 		"chi"		"**额外章节-1999 **"
+		"DoorCountdown"		"-1"
 	}
 	">>1999 is a special mode<<"
 	{
 		"chi"		"**1999是一个特殊的关卡 **"
+		"DoorCountdown"		"-1"
 	}
 	">>Its long and difficult<<"
 	{
@@ -935,6 +354,7 @@ Cooldo"
 	">>There are 2 ways to go. Someone must take the upper path<<"
 	{
 		"chi"		"**有2条路可以走，必须有人走上面的路。 **"
+		"DoorCountdown"		"5"
 	}
 	">>They must go and open the lower door from behind<<"
 	{
@@ -955,6 +375,7 @@ Cooldo"
 	"*AFK teleport in 5s"
 	{
 		"chi"		"**挂机玩家5秒后传送 **"
+		"DoorCountdown"		"-1"
 	}
 	">>Kill the Patriot<<"
 	{
@@ -983,26 +404,32 @@ Cooldo"
 	"***Plasmid upgraded: Sonic Boom 2***"
 	{
 		"chi"		"**质粒升级：音爆2级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Incinerate 2***"
 	{
 		"chi"		"**质粒升级：焚烧2级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Insect Swarm 2***"
 	{
 		"chi"		"**质粒升级：蜂群2级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Electro Bolt 2***"
 	{
 		"chi"		"**质粒升级：闪电2级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Winter Blast 2***"
 	{
 		"chi"		"**质粒升级：寒霜2级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Gravity Well 2***"
 	{
 		"chi"		"**质粒升级：重力2级 **"
+		"DoorCountdown"		"-1"
 	}
 	"*ADMIN Room: Plasmids set to max level*"
 	{
@@ -1011,26 +438,32 @@ Cooldo"
 	"***Plasmid upgraded: Sonic Boom 3***"
 	{
 		"chi"		"**质粒升级：音爆3级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Incinerate 3***"
 	{
 		"chi"		"**质粒升级：焚烧3级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Insect Swarm 3***"
 	{
 		"chi"		"**质粒升级：蜂群3级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Electro Bolt 3***"
 	{
 		"chi"		"**质粒升级：闪电3级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Winter Blast 3***"
 	{
 		"chi"		"**质粒升级：寒霜3级 **"
+		"DoorCountdown"		"-1"
 	}
 	"***Plasmid upgraded: Gravity Well 3***"
 	{
 		"chi"		"**质粒升级：重力3级**"
+		"DoorCountdown"		"-1"
 	}
 	">>SECRET: Found the Airship Token<<"
 	{
@@ -1067,6 +500,7 @@ Cooldo"
 	">>>Elizabeth cant control the tear! Teleport in 5 seconds<<<"
 	{
 		"chi"		"**伊丽莎白对裂隙失去了控制!僵尸在5秒后传送 **"
+		"DoorCountdown"		"-1"
 	}
 	">>>ELIZABETH: The boat! GET IN THE BOAT<<<"
 	{
@@ -1106,14 +540,18 @@ Cooldo"
 	}
 	">>>Congratulations<<"
 	{
-		"chi"		"**恭喜通关ヾ ^_^♪ **"
+		"chi"		"**恭喜通关ヾ ^_^? **"
 	}
 	">>>Thank you for playing<<"
 	{
 		"chi"		"**感谢你的游玩！**"
 	}
-	"The server is about to close the update ,Please update your game"
+	">>Cohen has fled!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**Cohen飞走了 **"
+	}
+	">>Its your lucky day, kid<<"
+	{
+		"chi"		"**小子，今天是你的幸运日 **"
 	}
 }

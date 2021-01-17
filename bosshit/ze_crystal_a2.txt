@@ -1,27 +1,5 @@
 "BOSSHP"
 {
-	"325672"
-	{
-		"enable"		"1"
-	}
-	"257347"
-	{
-		"enable"		"1"
-		"hammerid"		"257347"
-		"m_iname"		"st3_boss_hitbox_bullet"
-	}
-	"325747"
-	{
-		"enable"		"1"
-	}
-	"295540"
-	{
-		"enable"		"1"
-	}
-	"314872"
-	{
-		"enable"		"1"
-	}
 	"594229"
 	{
 		"enable"		"0"
@@ -76,6 +54,12 @@
 		"hammerid"		"258671"
 		"m_iname"		"st3_boss_hp"
 	}
+	"257347"
+	{
+		"enable"		"1"
+		"hammerid"		"257347"
+		"m_iname"		"st3_boss_hitbox_bullet"
+	}
 	"249388"
 	{
 		"enable"		"0"
@@ -93,17 +77,5 @@
 		"enable"		"0"
 		"hammerid"		"248331"
 		"m_iname"		"st1_room1_door"
-	}
-	"32718"
-	{
-		"enable"		"0"
-		"hammerid"		"32718"
-		"m_iname"		"st1_crystal"
-	}
-	"472476"
-	{
-		"enable"		"0"
-		"hammerid"		"472476"
-		"m_iname"		"item_phys_shield1"
 	}
 }

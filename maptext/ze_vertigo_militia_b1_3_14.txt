@@ -1,8 +1,8 @@
-"Console_T"
+Console_T"
 {
 	"** Map by kune **"
 	{
-		"chi"		"**地图制作：kune 地图翻译：清新的二哈♪ **"
+		"chi"		"**地图制作：kune 地图翻译：清新的二哈? **"
 	}
 	"** Original map by Chris Auty and Andrew Aumann**"
 	{
@@ -10,19 +10,19 @@
 	}
 	"** 30 seconds left **"
 	{
-		"chi"		"**30s **"
+		"chi"		"**30秒 **"
 	}
 	"** 25 seconds left **"
 	{
-		"chi"		"**25s **"
+		"chi"		"**25秒 **"
 	}
 	"** 15 seconds left **"
 	{
-		"chi"		"**15s **"
+		"chi"		"**15秒 **"
 	}
 	"** 20 seconds left **"
 	{
-		"chi"		"**20s **"
+		"chi"		"**20秒 **"
 	}
 	"** Hold here **"
 	{
@@ -34,7 +34,7 @@
 	}
 	"** 25 seconds left *"
 	{
-		"chi"		"**25s **"
+		"chi"		"**25秒 **"
 	}
 	"** Get on the elevator **"
 	{
@@ -42,46 +42,42 @@
 	}
 	"** 5 seconds left **"
 	{
-		"chi"		"**5s **"
+		"chi"		"**5秒 **"
 	}
 	"** 4 seconds left **"
 	{
-		"chi"		"**4s **"
+		"chi"		"**4秒 **"
 	}
 	"** 3 seconds left **"
 	{
-		"chi"		"**3s **"
+		"chi"		"**3秒 **"
 	}
 	"** 2 seconds left **"
 	{
-		"chi"		"**2s **"
+		"chi"		"**2秒 **"
 	}
 	"** 1 seconds left **"
 	{
-		"chi"		"**1s **"
+		"chi"		"**1秒 **"
 	}
 	"** 10 seconds left **"
 	{
-		"chi"		"**10s **"
+		"chi"		"**10秒 **"
 	}
 	"** 9 seconds left **"
 	{
-		"chi"		"**9s **"
+		"chi"		"**9秒 **"
 	}
 	"** 8 seconds left **"
 	{
-		"chi"		"**8s **"
+		"chi"		"**8秒 **"
 	}
 	"** 7 seconds left **"
 	{
-		"chi"		"**7s **"
+		"chi"		"**7秒 **"
 	}
 	"** FAILED **"
 	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"chi"		"**人类失败 **"
 	}
 }

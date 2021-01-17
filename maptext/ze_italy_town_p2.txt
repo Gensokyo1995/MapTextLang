@@ -2,7 +2,7 @@
 {
 	"++ ZE_ITALY_TOWN ++"
 	{
-		"chi"		"** **"
+		"chi"		"**意大利小镇 **"
 	}
 	"+++ CURRENT LEVEL: EASY +++"
 	{
@@ -63,7 +63,6 @@
 	"++ Nuke launched. Impact in 30 seconds ++"
 	{
 		"chi"		"**已请求核弹发射，核弹30秒后打击**"
-		"DoorCountDown"		"30"
 	}
 	"*** Map ported by Et3rnity***"
 	{
@@ -112,7 +111,6 @@
 	"++ HOLD! The door will open in 20 seconds!!! ++"
 	{
 		"chi"		"**防守20秒直到大门打开**"
-		"DoorCountDown"		"20"
 	}
 	"++ RESIST! 5 LAST SECONDS!!! ++"
 	{
@@ -125,12 +123,10 @@
 	"+++ Double doors open in 20 seconds +++"
 	{
 		"chi"		"**双扇门20秒后打开**"
-		"DoorCountDown"		"20"
 	}
 	"++ Nuke launched. Impact in 60 seconds ++"
 	{
 		"chi"		"**核弹60秒后打击**"
-		"DoorCountDown"		"60"
 	}
 	"++ Impact in 30 seconds ++"
 	{
@@ -190,15 +186,15 @@
 	}
 	"+++ FIRE! +++"
 	{
-		"chi"		"** **"
+		"chi"		"**喷火器 **"
 	}
 	"+++ Secret rocketlauncher has been found +++"
 	{
-		"chi"		"** **"
+		"chi"		"**秘密的火箭发射器已被发现 **"
 	}
 	"+++ You can only use it once +++"
 	{
-		"chi"		"** **"
+		"chi"		"**你只能使用一次 **"
 	}
 	"sync_version"
 	{
@@ -206,22 +202,22 @@
 	}
 	"+++ The door opens in 25 seconds +++"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在25秒后打开 **"
 	}
 	"+++ Defend for 20 seconds +++"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20秒 **"
 	}
 	"+++ The door opens in 45 seconds +++"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在45秒后打开 **"
 	}
 	"+++ Defend for 35 seconds +++"
 	{
-		"chi"		"** **"
+		"chi"		"**防守35秒 **"
 	}
 	"++ HOLD! DOORS OPENS IN 30 SEC ++"
 	{
-		"chi"		"** **"
+		"chi"		"**守住！门将在30秒后打开 **"
 	}
 }

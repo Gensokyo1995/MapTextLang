@@ -23,6 +23,7 @@
 	"** Push the C4 between the barrels **"
 	{
 		"chi"		"把c4放在桶之间"
+		"DoorCountdown"		"-1"
 	}
 	"**AFK TELE 20 SECONDS**"
 	{
@@ -51,7 +52,6 @@
 	"** InGen has received your distress signal. A109 inbound for extraction in 60... **"
 	{
 		"chi"		"60秒后救援到达"
-		"DoorCountdown"		"60"
 	}
 	"** Laboratory Security online. Locking in 10 seconds... **"
 	{
@@ -59,14 +59,14 @@
 	}
 	"** C4 planted! **"
 	{
-		"chi"		"** **"
+		"chi"		"**炸弹已安放 **"
 	}
 	"** Theres no power. Were screwed! **"
 	{
-		"chi"		"** **"
+		"chi"		"**没有电力.淦! **"
 	}
 	"** Mobile Command Center has crashed **"
 	{
-		"chi"		"** **"
+		"chi"		"**指挥中心崩溃了 **"
 	}
 }

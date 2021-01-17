@@ -3,6 +3,7 @@
 	"***Map created by Cisneros***"
 	{
 		"chi"		"**地图制作：Cisneros 地图翻译:Vocaloid-60**"
+		"DoorCountdown"		"-1"
 	}
 	"***The door will open in 5 seconds***"
 	{
@@ -62,7 +63,7 @@
 	}
 	"***The boat leave in 35 seconds***"
 	{
-		"chi"		"**船会在35s后到达**"
+		"chi"		"**船会在35s后离开**"
 	}
 	"***The boat is here!!, defend a little bit more***"
 	{
@@ -95,9 +96,5 @@
 	"*** Defend the ladder 15 seconds ***"
 	{
 		"chi"		"**守住梯子15秒**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
 	}
 }

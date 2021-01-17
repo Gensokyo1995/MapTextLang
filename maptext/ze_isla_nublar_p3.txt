@@ -87,7 +87,6 @@
 	"***DOOR WILL OPEN IN 20 SECONDS***"
 	{
 		"chi"		"**门将在20秒后打开 **"
-		"DoorCountDown"		"20"
 	}
 	"***DOOR WILL OPEN IN 10 SECONDS***"
 	{
@@ -123,7 +122,7 @@
 	}
 	"***ON THE DOOR TO THE CONTAINER***"
 	{
-		"chi"		"** **"
+		"chi"		"**放在集装箱的门上 **"
 	}
 	"***PRESS USE ON THE CONTAINER DOOR***"
 	{
@@ -199,7 +198,7 @@
 	}
 	"***THANKS FOR PLAYING : )***"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢游玩 **"
 	}
 	"***MAP RESET***"
 	{
@@ -211,10 +210,6 @@
 	}
 	"***MULDOONS SHOTGUN HAS BEEN FOUND***"
 	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"chi"		"**霰已被捡起 **"
 	}
 }

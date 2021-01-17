@@ -160,4 +160,12 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Lift 2 is leaving in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Lift 4 is leaving in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -128,7 +128,7 @@
 	}
 	"819584"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"819584"
 		"m_iname"		"level2_police_barricade_physbox"
 	}
@@ -443,5 +443,11 @@
 		"enable"		"0"
 		"hammerid"		"652473"
 		"m_iname"		"train_car_door_2_damage2"
+	}
+	"652479"
+	{
+		"enable"		"0"
+		"hammerid"		"652479"
+		"m_iname"		"train_car_door_2_damage1"
 	}
 }

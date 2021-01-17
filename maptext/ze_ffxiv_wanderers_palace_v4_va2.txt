@@ -571,4 +571,12 @@
 	{
 		"syncvalue"		"90251"
 	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+	"*** ADMIN BUTTON Level Normal ***"
+	{
+		"chi"		"** **"
+	}
 }

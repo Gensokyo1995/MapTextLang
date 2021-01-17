@@ -20,7 +20,7 @@
 	}
 	"123950"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"123950"
 		"m_iname"		"Boss_Z_Jail"
 	}
@@ -92,13 +92,13 @@
 	}
 	"29692"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"29692"
 		"m_iname"		"Daddy_Phys"
 	}
 	"29816"
 	{
-		"enable"		"1"
+		"enable"		"0"
 		"hammerid"		"29816"
 		"m_iname"		"Boss_Breakable"
 	}
@@ -140,25 +140,25 @@
 	}
 	"70370"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"70370"
 		"m_iname"		"Majin_Buu"
 	}
 	"70388"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"70388"
 		"m_iname"		"Super_BUU"
 	}
 	"70402"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"70402"
 		"m_iname"		"Kid_Buu"
 	}
 	"177296"
 	{
-		"enable"		"0"
+		"enable"		"1"
 		"hammerid"		"177296"
 		"m_iname"		"SpaceCow"
 	}
@@ -221,5 +221,10 @@
 		"enable"		"0"
 		"hammerid"		"105029"
 		"m_iname"		"Mine_8"
+	}
+	"78537"
+	{
+		"enable"		"-1"
+		"hammerid"		"78537"
 	}
 }

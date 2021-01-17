@@ -36,7 +36,6 @@
 	"** THE TOP DOOR IS OPENING 5 SECONDS! **"
 	{
 		"chi"		"**门将在5秒后开启！**"
-		"DoorCountdown"		"5"
 	}
 	"** Something spooky seems to be going on that table! **"
 	{
@@ -156,6 +155,7 @@
 	"** The gas counter! If we mess it up the gas might stop flowing - perhaps? **"
 	{
 		"chi"		"**打计数器!如果我们能破坏他或许火焰就可以停止了（射击4个红点中间的位置）**"
+		"DoorCountdown"		"-1"
 	}
 	"** WELL DONE! THE GAS SHOULD STOP RUNNING ANY TIME SOON! **"
 	{
@@ -196,19 +196,19 @@
 	}
 	"** The tell tale is told to tell that Billy turns spooky things stale! Zombies will become vulnerable! **"
 	{
-		"chi"		"** **"
+		"chi"		"**幽灵比利把所有恐怖的事物腐朽化了！僵尸将会变得很脆弱 **"
 	}
 	"** And thus Billy the friendly ghost removed all spooky things from the world **"
 	{
-		"chi"		"** **"
+		"chi"		"**并且友善的幽灵比利将所有恐怖的事物都消除掉了**"
 	}
 	"** and conveniently led our diminute human friends to the end of their little story! **"
 	{
-		"chi"		"** **"
+		"chi"		"**同时顺带带领我们人类从他们的小故事中走了出来! **"
 	}
 	"** THE END **"
 	{
-		"chi"		"** **"
+		"chi"		"**结束了 **"
 	}
 	"** MS. WHISKERS HAS WHISKED US! ITS ALL OVER! **"
 	{
@@ -221,7 +221,7 @@
 	}
 	"** The spirits marked the H leter... **"
 	{
-		"chi"		"** **"
+		"chi"		"**神灵标记了字母H **"
 	}
 	"** A... **"
 	{

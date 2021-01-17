@@ -28,15 +28,13 @@
 	{
 		"chi"		"**到集装箱上去 **"
 	}
-	"{"		"*** Doors will open in 40 seconds ***"
-	"{"		"chi"
 	"*** ze_huge_labo_escape ***"
 	{
 		"chi"		"**高山基地逃亡**"
 	}
 	"*** map created by thas ***"
 	{
-		"chi"		"**地图制作:thas 地图翻译:清新的二哈♪**"
+		"chi"		"**地图制作:thas 地图翻译:清新的二哈?**"
 	}
 	"*** This is beta ver,it has only 1 stage ***"
 	{

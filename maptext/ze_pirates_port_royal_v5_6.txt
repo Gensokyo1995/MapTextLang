@@ -16,7 +16,6 @@
 	">>> GATE OPEN IN 20 SEC <<<"
 	{
 		"chi"		"** 20秒后开门 **"
-		"DoorCountdown"		"0"
 	}
 	">>> GATE OPENING <<<"
 	{
@@ -25,7 +24,6 @@
 	">>> GATE CLOSES IN 5 SEC <<<"
 	{
 		"chi"		"** 5秒后关门，进门守住 **"
-		"DoorCountdown"		"0"
 	}
 	">>> GATE CLOSING <<<"
 	{
@@ -34,7 +32,6 @@
 	">>> DEFEND VILLAGE FOR 40 SEC! <<<"
 	{
 		"chi"		"** 守住村庄40秒 **"
-		"DoorCountdown"		"0"
 	}
 	"--*** BUBBLES picked up ***--"
 	{
@@ -47,7 +44,6 @@
 	">>> REMAINING 10 SEC <<<"
 	{
 		"chi"		"** 剩余10秒 **"
-		"DoorCountdown"		"0"
 	}
 	">>> RUN! <<<"
 	{
@@ -60,7 +56,6 @@
 	">>> DOORS CLOSE IN 25 SEC <<<"
 	{
 		"chi"		"** 门将于25秒关闭 **"
-		"DoorCountdown"		"0"
 	}
 	"--*** SWORD picked up ***--"
 	{
@@ -69,12 +64,10 @@
 	">>> DOORS CLOSE IN 5 SEC <<<"
 	{
 		"chi"		"** 5秒后关闭门 **"
-		"DoorCountdown"		"0"
 	}
 	">>> HORSES LEAVING IN 10 SEC <<<"
 	{
 		"chi"		"** 马匹停留10秒后出发 **"
-		"DoorCountdown"		"0"
 	}
 	"***ACTIVATE 4 CANNONS***"
 	{
@@ -83,7 +76,6 @@
 	">>> GATE IS CLOSING IN 18 SEC <<<"
 	{
 		"chi"		"** 门将于18秒后关闭 **"
-		"DoorCountdown"		"0"
 	}
 	">>> ALL CANNONS ACTIVATED <<<"
 	{
@@ -112,12 +104,10 @@
 	">>> YOU HAVE TO DEFEND A BLACK PEARL 45 SEC! <<<"
 	{
 		"chi"		"** 你必须防卫黑珍珠号45秒！**"
-		"DoorCountdown"		"0"
 	}
 	">>> LAST 10 SEC REMAINING <<<"
 	{
 		"chi"		"** 剩余最后10秒 **"
-		"DoorCountdown"		"0"
 	}
 	"*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
 	{
@@ -132,22 +122,18 @@
 	">>> DOORS CLOSE IN 20 SEC <<<"
 	{
 		"chi"		"** 大门20秒后开启 **"
-		"DoorCountdown"		"0"
 	}
 	">>> DOORS CLOSE IN 10 SEC <<<"
 	{
 		"chi"		"** 大门10秒后开启 **"
-		"DoorCountdown"		"0"
 	}
 	">>> GATE IS CLOSING IN 25 SEC <<<"
 	{
 		"chi"		"** 门将于25秒后关闭 **"
-		"DoorCountdown"		"0"
 	}
 	">>> GATE IS CLOSING IN 5 SEC <<<"
 	{
 		"chi"		"** 门将于5秒后关闭 **"
-		"DoorCountdown"		"0"
 	}
 	"(CT) >>>--SHOOT CANNON--<<<"
 	{
@@ -168,7 +154,6 @@
 	">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
 	{
 		"chi"		"** 庇护所的入口将于30秒开放 **"
-		"DoorCountdown"		"0"
 	}
 	">>> SHELTER OPENING <<<"
 	{
@@ -177,7 +162,6 @@
 	">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
 	{
 		"chi"		"** 岛屿将于25秒后摧毁 **"
-		"DoorCountdown"		"0"
 	}
 	">>> REMAINING 5 SEC <<<"
 	{
@@ -204,7 +188,6 @@
 	">>> DOOR OPEN IN 10 SEC <<<"
 	{
 		"chi"		"** 门将于10秒后打开 **"
-		"DoorCountdown"		"0"
 	}
 	">>> DOOR OPEN IN 5 SEC <<<"
 	{
@@ -213,7 +196,6 @@
 	">>> HOLD FOR 15 SEC <<<"
 	{
 		"chi"		"** 守住15秒 **"
-		"DoorCountdown"		"0"
 	}
 	">>> HOLD E ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
 	{
@@ -230,7 +212,6 @@
 	">>> DOORS OPEN IN 25 sec <<<"
 	{
 		"chi"		"** 门将于25秒后打开 **"
-		"DoorCountdown"		"0"
 	}
 	">>> DOORS OPEN IN 5 sec <<<"
 	{
@@ -239,7 +220,6 @@
 	">>> DOORS CLOSE IN 15 sec <<<"
 	{
 		"chi"		"** 门将于15秒后关闭 **"
-		"DoorCountdown"		"0"
 	}
 	">>> DOOR OPEN! RUN!!! <<<"
 	{
@@ -260,7 +240,6 @@
 	">>> HOLD ZOMBIES FOR 20 sec <<<"
 	{
 		"chi"		"** 守住僵尸20秒 **"
-		"DoorCountdown"		"0"
 	}
 	"***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
 	{
@@ -285,7 +264,6 @@
 	">>> HOLD THE CELLAR FOR 25 SEC <<<"
 	{
 		"chi"		"** 守住酒窖25秒 **"
-		"DoorCountdown"		"0"
 	}
 	">>> CELLAR OPENING IN 5 SEC <<<"
 	{
@@ -306,7 +284,6 @@
 	">>> DOORS OPEN IN 30 SEC <<<"
 	{
 		"chi"		"** 大门30秒后开启**"
-		"DoorCountdown"		"0"
 	}
 	">>> GET DOWN FROM WOOD PLATFORM TO FIGHT BARBOSSA <<<"
 	{
@@ -315,7 +292,6 @@
 	">>> BARBOSSA IS COMING IN 5 SEC <<<"
 	{
 		"chi"		"** 巴博萨5秒内进入 **"
-		"DoorCountdown"		"0"
 	}
 	">>> IT'S BARBOSSA. KILL HIM! <<<"
 	{
@@ -324,12 +300,10 @@
 	">>> HE HAS DISAPPEARED. RUN! <<<"
 	{
 		"chi"		"** 他消失了.快跑! **"
-		"ico"		"icon_fire"
 	}
 	">>> DOORS OPEN IN 20 SEC <<<"
 	{
 		"chi"		"** 门将于20后开启 **"
-		"DoorCountdown"		"0"
 	}
 	"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
 	{
@@ -344,7 +318,6 @@
 	">>> HOLD FOR 35 SEC <<<"
 	{
 		"chi"		"** 守住35秒 **"
-		"DoorCountdown"		"0"
 	}
 	">>> IT'S KRAKEN. KILL HIM! <<<"
 	{
@@ -397,12 +370,10 @@
 	">>> GATE OPENS IN 20 SEC <<<"
 	{
 		"chi"		"** 门在20秒后打开 **"
-		"DoorCountdown"		"0"
 	}
 	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
 	{
 		"chi"		"** 防守村庄40秒 **"
-		"DoorCountdown"		"0"
 	}
 	">>> GATE IS OPENING <<<"
 	{
@@ -443,7 +414,6 @@
 	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
 	{
 		"chi"		"**保护黑珍珠45秒！ **"
-		"DoorCountdown"		"0"
 	}
 	">>> LAST 10 SECONDS REMAINING <<<"
 	{
@@ -480,7 +450,6 @@
 	">>> Door opens in 25 sec <<<"
 	{
 		"chi"		"** 门25秒后打开 **"
-		"DoorCountdown"		"0"
 	}
 	">>> DOOR CLOSES IN 15 sec <<<"
 	{
@@ -509,7 +478,6 @@
 	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
 	{
 		"chi"		"**最后一个大英帝国的勋章已被放入宝箱**"
-		"ico"		"icon_fire"
 	}
 	">>> BARBOSSA IS DEAD <<<"
 	{
@@ -530,32 +498,26 @@
 	">>> ITS BARBOSSA. KILL HIM! <<<"
 	{
 		"chi"		"**是巴博萨，杀了他**"
-		"ico"		"icon_fire"
 	}
 	">>> ITS KRAKEN. KILL HIM! <<<"
 	{
 		"chi"		"** 是北欧海怪KRAKEN. 杀了它! **"
-		"ico"		"icon_fire"
 	}
 	">>> ITS A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
 	{
 		"chi"		"**他是一个海盗，在他杀死你之前快杀了他**"
-		"ico"		"icon_fire"
 	}
 	">>> HES DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
 	{
 		"chi"		"**他已经死了，跑向宝藏库来挽救你的命**"
-		"ico"		"icon_fire"
 	}
 	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<<"
 	{
 		"chi"		"**KRAKEN已经死了，跳上木筏**"
-		"ico"		"icon_fire"
 	}
 	">>> ITS BARBOSSA AGAIN. DONT LET HIM SURVIVE!  <<<"
 	{
 		"chi"		"**又是巴博萨，别让他活着**"
-		"ico"		"icon_fire"
 	}
 	">>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<<"
 	{
@@ -563,11 +525,11 @@
 	}
 	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第五关 **"
 	}
 	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**正在处死所有玩家 **"
 	}
 	">>> STAND BY THE WHEEL TO BRING DOWN THE BRIDGE <<<"
 	{
@@ -576,35 +538,30 @@
 	">>> HOLD THE CELLAR FOR 30 SEC <<<"
 	{
 		"chi"		">>>在内殿守住30秒<<<"
-		"DoorCountdown"		"0"
 	}
 	">>> HOLD FOR 25 SEC <<<"
 	{
 		"chi"		">>>守住25秒<<<"
-		"DoorCountdown"		"0"
 	}
 	">>> HOLD FOR 40 SEC <<<"
 	{
 		"chi"		">>>守住40秒<<<"
-		"DoorCountdown"		"0"
 	}
 	">>> HOLD <<<"
 	{
 		"chi"		">>>守住<<<"
-		"DoorCountdown"		"40"
 	}
 	"||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
 	{
 		"chi"		"**大章鱼并不想理你，并向你扔了一只自爆僵尸**"
-		"ico"		"icon_fire"
 	}
 	"|Admin Room|***Admin has changed difficulty to LEVEL 4 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第四关 **"
 	}
 	"|Admin Room|***Admin has changed difficulty to-LEVEL 3 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第三关 **"
 	}
 	"*** BARREL picked up ***"
 	{
@@ -628,7 +585,7 @@
 	}
 	"|Admin Room|***Admin has changed difficulty to LEVEL 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第一关 **"
 	}
 	">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<<"
 	{
@@ -652,12 +609,11 @@
 	}
 	"|Admin Room|***Admin has changed difficulty to LEVEL 2 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第二关 **"
 	}
 	">>> HOLD FOR 45 SEC <<<"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountdown"		"0"
 	}
 	">>> KRAKEN GOD! <<<"
 	{
@@ -673,7 +629,7 @@
 	}
 	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 KRAKEN GOD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第六关 **"
 	}
 	">>> GODLY KRAKEN HAS USED DOUBLE WAVE TO CLEAR THE PATH <<<"
 	{

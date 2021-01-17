@@ -86,8 +86,8 @@
 	}
 	"**The wall 1 will open in 50 seconds**"
 	{
-		"chi"		"**1号区域大门50秒后打开**"
-		"DoorCountDown"		"50"
+		"chi"		"**一号区域大门50秒后打开**"
+		"DoorCountdown"		"50"
 	}
 	"**FOG MODE** OMG where are lasers?! I cant see them!"
 	{
@@ -95,13 +95,13 @@
 	}
 	"**The wall 1 will open in 40 seconds**"
 	{
-		"chi"		"**1号区域大门40秒后打开**"
-		"DoorCountDown"		"40"
+		"chi"		"**一号区域大门40秒后打开**"
+		"DoorCountdown"		"40"
 	}
 	"**The final wall will open in 40 seconds**"
 	{
 		"chi"		"**最后大门40秒后打开**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"**A player has picked up WIND materia**"
 	{
@@ -126,6 +126,7 @@
 	"**The wall 2 will open in 50 seconds**"
 	{
 		"chi"		"**2号区域大门50秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"**SOLO MODE** Only the chosen can survive..."
 	{
@@ -142,7 +143,7 @@
 	"**120 SECONDS BEFORE THE DUCK DEPART**"
 	{
 		"chi"		"**鸭子将在120秒后离开**"
-		"DoorCountDown"		"120"
+		"DoorCountdown"		"120"
 	}
 	"**90 SECONDS BEFORE THE DUCK DEPART**"
 	{
@@ -167,6 +168,7 @@
 	"**The wall 2 will open in 40 seconds**"
 	{
 		"chi"		"**2号区域大门40秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"**Show those niggers that they should kiss your feets**"
 	{
@@ -251,7 +253,7 @@
 	"**Defend the house for 40 seconds**"
 	{
 		"chi"		"**守住房子40秒**"
-		"DoorCountDown"		"40"
+		"DoorCountdown"		"40"
 	}
 	"**Defend like pro cocks for as long as i want**"
 	{
@@ -338,6 +340,10 @@
 		"chi"		"** **"
 	}
 	"**Okay here we are. Survive your last 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up YEKTIMA materia**"
 	{
 		"chi"		"** **"
 	}

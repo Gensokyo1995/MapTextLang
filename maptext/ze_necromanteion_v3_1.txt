@@ -83,10 +83,12 @@
 	"***Button 2 is triggered***"
 	{
 		"chi"		"**按钮2被触发**"
+		"DoorCountdown"		"-1"
 	}
 	"***Button 1 is triggered***"
 	{
 		"chi"		"**按钮1被触发**"
+		"DoorCountdown"		"-1"
 	}
 	"***All buttons are pressed***"
 	{
@@ -183,27 +185,22 @@
 	"***Only the chosen one can live***"
 	{
 		"chi"		"**只有天选之人才能活下来**"
-		"DoorCountdown"		"10"
 	}
 	"***You are too weak***"
 	{
 		"chi"		"**你们太弱了!!!**"
-		"DoorCountdown"		"8"
 	}
 	"***Lets do a test***"
 	{
 		"chi"		"**让我们试一试吧!!!!**"
-		"DoorCountdown"		"7"
 	}
 	"***Show me your strength***"
 	{
 		"chi"		"**让我看看你们到底几斤几两**"
-		"DoorCountdown"		"5"
 	}
 	"***Beware***"
 	{
 		"chi"		"**目视前方**"
-		"DoorCountdown"		"3"
 	}
 	"***Congratulation!!!!***"
 	{
@@ -461,27 +458,27 @@
 	"***SUPERNOVA***"
 	{
 		"chi"		"**超新星（按W抵抗推力）**"
-		"DoorCountdown"		"2"
+		"DoorCountdown"		"3"
 	}
 	"***SERVANTS***"
 	{
 		"chi"		"**尸笼（回头防守僵尸）**"
-		"DoorCountdown"		"2"
+		"DoorCountdown"		"3"
 	}
 	"***SABER***"
 	{
 		"chi"		"**利刃**"
-		"DoorCountdown"		"2"
+		"DoorCountdown"		"3"
 	}
 	"***BLACK HOLE***"
 	{
 		"chi"		"**黑洞（按S抵抗吸力）**"
-		"DoorCountdown"		"2"
+		"DoorCountdown"		"3"
 	}
 	"***DEATH LIGHT***"
 	{
 		"chi"		"**死亡光线（蹲下躲避刀刃）**"
-		"DoorCountdown"		"2"
+		"DoorCountdown"		"3"
 	}
 	"***You take too much of time!!!***"
 	{
@@ -510,6 +507,7 @@
 	"***Hold them for 2 minutess***"
 	{
 		"chi"		"**坚守2分钟**"
+		"DoorCountdown"		"-1"
 	}
 	"***ZOMBIE REACHED THE FINAL ESCAPE ROOM***"
 	{
@@ -518,6 +516,7 @@
 	"**1 minute left, keep holding***"
 	{
 		"chi"		"**倒计时1分钟**"
+		"DoorCountdown"		"-1"
 	}
 	"***Admin button is pressed !!!***"
 	{
@@ -533,7 +532,7 @@
 	}
 	"***Hold them for 1 minute***"
 	{
-		"chi"		"**坚守1分钟**"
+		"chi"		"**坚守60秒**"
 	}
 	"***15s left***"
 	{
@@ -543,32 +542,9 @@
 	{
 		"chi"		"**倒计时5秒**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_g_cv_money 10000"
-		}
-		"2"
-		{
-			"cvar"		"sm_cvar sm_he_limit 5"
-		}
-		"3"
-		{
-			"cvar"		"sm_cvar   sm_molotov_limit 2"
-		}
-		"4"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-	}
 	"***The portal will activate in 70***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送器将在70秒后激活 **"
 	}
 	"***Special thanks to: Jllaneras***"
 	{
@@ -584,15 +560,15 @@
 	}
 	"***Map by Qahnaarin***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Qahnaarin **"
 	}
 	"***Zombie teleport in 20s***"
 	{
-		"chi"		"**僵尸20s后传送 **"
+		"chi"		"**僵尸20秒后传送 **"
 	}
 	"***AFK TELEPORT IN 10s***"
 	{
-		"chi"		"**afk的玩家10s后将被传送 **"
+		"chi"		"**挂机的玩家10秒后将被传送 **"
 	}
 	"***What is this?***"
 	{
@@ -600,15 +576,15 @@
 	}
 	"***Zombie Teleport in 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送 **"
 	}
 	"***The floor will break in 20s***"
 	{
-		"chi"		"** **"
+		"chi"		"**地板将在20秒后破碎 **"
 	}
 	"***Jump into the hole***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳进洞里 **"
 	}
 	"***Lasers!!!***"
 	{
@@ -622,74 +598,74 @@
 	}
 	"***The portal will activate in 70s***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送器将在70秒后激活 **"
 	}
 	"***Zombies aboard***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上来了,GG **"
 	}
 	"***The first button is triggered***"
 	{
-		"chi"		"** **"
+		"chi"		"**第一个按钮已按下 **"
 	}
 	"***All buttons are triggered***"
 	{
-		"chi"		"** **"
+		"chi"		"**所有按钮已触发 **"
 	}
 	"***Not bad...***"
 	{
-		"chi"		"** **"
+		"chi"		"**还不错... **"
 	}
 	"***But...***"
 	{
-		"chi"		"** **"
+		"chi"		"**但是... **"
 	}
 	"***How about now?***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在咋样? **"
 	}
 	"***Hold them for 2 minutes***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守120秒 **"
 	}
 	"***1 minute 30s***"
 	{
-		"chi"		"** **"
+		"chi"		"**90秒 **"
 	}
 	"***1 minute***"
 	{
-		"chi"		"** **"
+		"chi"		"**60秒 **"
 	}
 	"***45s***"
 	{
-		"chi"		"** **"
+		"chi"		"**45秒 **"
 	}
 	"***30s***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒 **"
 	}
 	"***15s***"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒 **"
 	}
 	"***5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒 **"
 	}
 	"***Congratulation!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**祝贺!!! **"
 	}
 	"***You won this map!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们通关了整个地图 **"
 	}
 	"***Thanks for playing***"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢游玩 **"
 	}
 	"***I hope you enjoy this map***"
 	{
-		"chi"		"** **"
+		"chi"		"**希望大家玩的开心 **"
 	}
 }

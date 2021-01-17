@@ -37,7 +37,7 @@
 	"** Cover here till the rock explodes **"
 	{
 		"chi"		"**守住25秒-直到石头爆炸**"
-		"DoorCountdown"		"25"
+		"DoorCountdown"		"0"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{
@@ -271,7 +271,7 @@
 	}
 	"** Zombies Have Escaped **"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上来了，人类GG**"
 	}
 	"** The dragon has been defeated! GOGOGO **"
 	{

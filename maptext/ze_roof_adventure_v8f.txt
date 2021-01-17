@@ -10,8 +10,7 @@
 	}
 	"***Rock monster uses water!(go to the end of the platform)***"
 	{
-		"chi"		"**岩石怪物使用了水！（跑到平台最后面）**"
-		"ico"		"icon_fire"
+		"chi"		"**3---岩石怪物使用了水！（跑到平台最后面）**"
 	}
 	"***Use grenades to prevent zombies walking!***"
 	{
@@ -28,6 +27,7 @@
 	"***Stage 1***"
 	{
 		"chi"		"**第1关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Rock monster will appear in 20s!***"
 	{
@@ -35,27 +35,24 @@
 	}
 	"***Rock monster uses blast!(move to the edge of the platform)***"
 	{
-		"chi"		"**岩石怪使用爆破！（移动到平台的边缘）**"
-		"ico"		"icon_fire"
+		"chi"		"**3---岩石怪使用爆破！（移动到平台的边缘）**"
 	}
 	"***Rock monster uses left fire(move to right)!***"
 	{
-		"chi"		"**岩石怪使用左边火！（向右移动）**"
-		"ico"		"icon_fire"
+		"chi"		"**3---岩石怪使用左边火！（向右移动）**"
 	}
 	"***Rock monster uses right fire(move to left)!***"
 	{
-		"chi"		"**岩石怪使用右边火！（向左移动）**"
-		"ico"		"icon_fire"
+		"chi"		"**3---岩石怪使用右边火！（向左移动）**"
 	}
 	"***Rock monster uses skyfire!***"
 	{
-		"chi"		"**岩石怪使用了天火!**"
-		"ico"		"icon_fire"
+		"chi"		"**3---岩石怪使用了天火!**"
 	}
 	"***Shoot rock monster between two eyes!(use m249 or negev)***"
 	{
 		"chi"		"**朝着岩石怪两眼中间射击！（使用m249或negev）**"
+		"DoorCountdown"		"3"
 	}
 	"***Stage completed!***"
 	{
@@ -64,10 +61,12 @@
 	"***Next Stage:[Stage 2]***"
 	{
 		"chi"		"**下一关：[第2关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 2***"
 	{
 		"chi"		"**第2关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Winners will have access to get special items in next stage!***"
 	{
@@ -80,10 +79,12 @@
 	"***Next Stage:[Stage 3]***"
 	{
 		"chi"		"**下一关：[第3关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 3***"
 	{
 		"chi"		"**第3关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Zombies are in win-room,stage failed!***"
 	{
@@ -92,10 +93,12 @@
 	"***Next Stage:[Stage 8]***"
 	{
 		"chi"		"**下一关：[第8关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 8***"
 	{
 		"chi"		"**第8关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Oh!You are shining the roof!***"
 	{
@@ -112,6 +115,7 @@
 	"***Stage 7***"
 	{
 		"chi"		"**第7关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Constant skyfire will appear in some areas!***"
 	{
@@ -124,34 +128,42 @@
 	"***Next Stage:[Stage 4]***"
 	{
 		"chi"		"**下一关：[第4关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 4***"
 	{
 		"chi"		"**第4关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Next Stage:[Stage 5]***"
 	{
 		"chi"		"**下一关：[第5关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 5***"
 	{
 		"chi"		"**第5关**"
+		"DoorCountdown"		"-1"
 	}
 	"***The ultimate will start in 14s!***"
 	{
 		"chi"		"**终极将在14秒后生效！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Next Stage:[Stage 6]***"
 	{
 		"chi"		"**下一关：[第6关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***Stage 6***"
 	{
 		"chi"		"**第6关**"
+		"DoorCountdown"		"-1"
 	}
 	"***Complete the surf and you will award 100 scores and a molotov!***"
 	{
 		"chi"		"**完成滑翔的人将会奖励100分和1个燃烧瓶！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Hold the chicken for last 35s!***"
 	{
@@ -160,6 +172,7 @@
 	"***Next Stage:[Stage 7]***"
 	{
 		"chi"		"**下一关：[第7关]**"
+		"DoorCountdown"		"-1"
 	}
 	"***25s left!***"
 	{
@@ -175,7 +188,7 @@
 	}
 	"***Rock monster uses lightning!(crouch)***"
 	{
-		"chi"		"**岩石怪使用闪电！（蹲下）**"
+		"chi"		"**3---岩石怪使用闪电！（蹲下）**"
 	}
 	"***Next Stage:[Laser]***"
 	{
@@ -252,19 +265,14 @@
 	"***Rock monster will use backward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往后的推力！（准备按住W）**"
-		"DoorCountdown"		"3"
-		"ico"		"icon_fire"
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往前的推力！（准备按住S）**"
-		"DoorCountdown"		"3"
-		"ico"		"icon_fire"
 	}
 	"***Hold for 45s!***"
 	{
 		"chi"		"**坚守45秒！**"
-		"DoorCountdown"		"45"
 	}
 	"***Zombies will come in 12s!***"
 	{
@@ -273,10 +281,12 @@
 	"***Hold here for 25s or complete last surf!***"
 	{
 		"chi"		"**坚守这里25秒或者完成最后的滑翔！**"
+		"DoorCountdown"		"-1"
 	}
 	"***All zombies will come in 20s!***"
 	{
 		"chi"		"**所有僵尸将在20秒后到来！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Jump above the chicken!***"
 	{
@@ -297,14 +307,10 @@
 	"***Rock monster will use left-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往左的推力！（准备按住D）**"
-		"DoorCountdown"		"3"
-		"ico"		"icon_fire"
 	}
 	"***Rock monster will use right-push in 3s!***"
 	{
 		"chi"		"**岩石怪将会在3秒后使用往右的推力！（准备按住A）**"
-		"DoorCountdown"		"3"
-		"ico"		"icon_fire"
 	}
 	"***A human has picked up unlimited ammo!***"
 	{
@@ -333,6 +339,7 @@
 	"***All zombies will be teleported in 9s!***"
 	{
 		"chi"		"**9秒后传送所有僵尸！**"
+		"DoorCountdown"		"-1"
 	}
 	"***Hold for 35s!***"
 	{
@@ -368,7 +375,7 @@
 	}
 	"***The wood bed will move in 10s!***"
 	{
-		"chi"		"**将在10秒后移动！**"
+		"chi"		"**木板将在10秒后上升！**"
 	}
 	"***Hold here for 25s!***"
 	{

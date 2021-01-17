@@ -11,7 +11,6 @@
 	"*** Door is opening in 20secs ***"
 	{
 		"chi"		" *** 门打开于20秒后 ***"
-		"DoorCountdown"		"20"
 	}
 	"*** Door is opening in 5secs ***"
 	{
@@ -20,11 +19,11 @@
 	"*** 1st teleport enabled ***"
 	{
 		"chi"		"*** 第1个传送点已激活 ***"
+		"DoorCountdown"		"-1"
 	}
 	"*** Trains leaving in 30secs***"
 	{
 		"chi"		"*** 矿车30秒后离开  ***"
-		"DoorCountdown"		"30"
 	}
 	"*** Trains are leaving  ***"
 	{
@@ -33,17 +32,16 @@
 	"*** 2nd teleport enabled ***"
 	{
 		"chi"		"*** 第2个传送点已激活 ***"
+		"DoorCountdown"		"-1"
 	}
 	"*** 3rd teleport enabled ***"
 	{
 		"chi"		"*** 第3个传送点已激活 ***"
+		"DoorCountdown"		"-1"
 	}
 	"*** Map by AERIS.004 ***"
 	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
+		"chi"		"**地图作者: AERIS.004**"
+		"DoorCountdown"		"-1"
 	}
 }

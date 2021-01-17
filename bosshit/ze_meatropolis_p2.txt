@@ -12,12 +12,6 @@
 		"hammerid"		"214706"
 		"m_iname"		"vis_meatloaf"
 	}
-	"1044277"
-	{
-		"enable"		"0"
-		"hammerid"		"1044277"
-		"m_iname"		"ph_meatball&1029"
-	}
 	"214703"
 	{
 		"enable"		"0"

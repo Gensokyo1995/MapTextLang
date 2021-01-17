@@ -27,6 +27,7 @@
 	"*** GATES A5 & C2 WILL BREAK IN 5 SECONDS ***"
 	{
 		"chi"		"**A5与C2大门将在5秒后打开**"
+		"DoorCountdown"		"5"
 	}
 	"*** CURRENT DIFFICULTY --- EASY ***"
 	{
@@ -43,7 +44,6 @@
 	"*** DOOR OPENING IN 30 SECONDS ***"
 	{
 		"chi"		"**大门将在30秒后开启**"
-		"DoorCountdown"		"30"
 	}
 	"*** DOOR OPENING IN 10 SECONDS ***"
 	{
@@ -56,7 +56,6 @@
 	"*** ELEVATOR LEAVES IN 30 SECONDS ***"
 	{
 		"chi"		"**电梯将在30秒后离开**"
-		"DoorCountdown"		"30"
 	}
 	"*** 10 seconds left ***"
 	{
@@ -73,7 +72,6 @@
 	"*** WALL BREAKS IN 20 SECONDS ***"
 	{
 		"chi"		"**墙将在20秒后破碎**"
-		"DoorCountdown"		"20"
 	}
 	"*** FALL BACK! ***"
 	{
@@ -82,7 +80,6 @@
 	"*** WALL BREAKS IN 15 SECONDS ***"
 	{
 		"chi"		"**墙将在15秒后破碎**"
-		"DoorCountdown"		"15"
 	}
 	"*** MOVE!! ***"
 	{
@@ -95,7 +92,6 @@
 	"*** DOOR OPENING IN 20 SECONDS ***"
 	{
 		"chi"		"**门将在20秒后打开**"
-		"DoorCountdown"		"20"
 	}
 	"*** FALL BACK!!!!!! ***"
 	{
@@ -104,7 +100,6 @@
 	"*** HOLD YOUR POSITIONS!! GATES WILL OPEN IN 25 SECONDS ***"
 	{
 		"chi"		"**坚守阵地！大门将在25秒后开启**"
-		"DoorCountdown"		"25"
 	}
 	"*** ESCAPE HAS BEEN CALLED!! REGROUP AT THE TOP OF THE BUILDING!! ***"
 	{
@@ -113,7 +108,6 @@
 	"*** ELEVATOR LEAVING IN 20 seconds ***"
 	{
 		"chi"		"**电梯将在20秒后离开**"
-		"DoorCountdown"		"20"
 	}
 	"*** 3 ***"
 	{
@@ -170,7 +164,6 @@
 	"*** KEEP THEM INSIDE THE BUILDING FOR 25 SECONDS ***"
 	{
 		"chi"		"**坚守25秒！别把那些僵尸放出来！**"
-		"DoorCountdown"		"25"
 	}
 	"*** FALL BACK!!! WE ARE SAFE! ***"
 	{
@@ -194,11 +187,11 @@
 	}
 	"*** AGM MISSILE WILL KILL US IN 100 SECONDS ***"
 	{
-		"chi"		"**AGM导弹将在将在100秒后把我们全部炸飞**"
+		"chi"		"**导弹将在将在100秒后把我们全部炸飞**"
 	}
 	"*** AGM MISSILE IN 50 SECONDS ***"
 	{
-		"chi"		"**AGM导弹还有50秒就到了快打啊啊啊...**"
+		"chi"		"**导弹还有50秒就到了快打啊啊啊...**"
 	}
 	"*** AGM MISSILE IN 20 SECONDS ***"
 	{
@@ -234,82 +227,83 @@
 	}
 	"*** SPIDER TANK HAS BEEN DESTROYED!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蜘蛛坦克已被摧毁!!! **"
 	}
 	"*** GO INTO THE TRAIN STATION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**进入地铁站 **"
 	}
 	"*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**前面左转进入地堡 **"
 	}
 	"*** BUNKER IS CLOSING IN 35 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地堡将在35秒后关闭 **"
 	}
 	"*** BUNKER IS CLOSING IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地堡将在20秒后关闭 **"
 	}
 	"*** BUNKER IS CLOSING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地堡正在关闭 **"
 	}
 	"*** NORMAL DIFFICULTY COMPLETE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**普通难度完成 **"
 	}
 	"*** MOVING ON TO HARD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**前往困难难度 **"
 	}
 	"*** CURRENT DIFFICULTY --- HAAAAAAARD!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前难度：困难 **"
 	}
 	"*** NADES DO MORE DAMAGE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**高爆可以造成更多伤害 **"
 	}
 	"*** RAGEMODE ON!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**狂怒模式启动 **"
 	}
 	"*** WATCH OUT FOR ELECTRICITY WAVES ***"
 	{
 		"chi"		"**注意前方电力刀波(2中刀)**"
+		"DoorCountdown"		"-1"
 	}
 	"*** KEEP MOVING FORWARD!!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**继续往前走 **"
 	}
 	"*** THE LAST TRAIN IS COMING ***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后列车正在到来 **"
 	}
 	"*** YOU DID IT!!!! YOU WON ALL DIFFICULTIES!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜！你们完成了全部难度 **"
 	}
 	"*** MAP RESET ACTIVATED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图重置 **"
 	}
 	"*** HARD DIFFICULTY SET ON ADMIN ROOM ***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了困难难度 **"
 	}
 	"*** BOOM BAM BOP BATTA BOP BOOP POW ***"
 	{
-		"chi"		"** **"
+		"chi"		"**BOOM~~~~~ **"
 	}
 	"*** ZOMBIES IN THE BUNKER!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进入了地堡 **"
 	}
 	"*** RESTARTING NORMAL DIFFICULTY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**重启普通难度 **"
 	}
 }

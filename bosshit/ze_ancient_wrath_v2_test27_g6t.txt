@@ -546,4 +546,31 @@
 		"hammerid"		"5758053"
 		"m_iname"		"weapon_earth_breakable"
 	}
+	"4336090"
+	{
+		"enable"		"1"
+		"hammerid"		"4336090"
+		"m_iname"		"boss_quad_encounter_01_hitbox"
+	}
+	"6432480"
+	{
+		"enable"		"1"
+		"hammerid"		"6432480"
+		"m_iname"		"boss_quad_encounter_01_hitbox_n"
+	}
+	"506576"
+	{
+		"enable"		"-1"
+		"hammerid"		"506576"
+	}
+	"3472395"
+	{
+		"enable"		"-1"
+		"hammerid"		"3472395"
+	}
+	"5101181"
+	{
+		"enable"		"-1"
+		"hammerid"		"5101181"
+	}
 }

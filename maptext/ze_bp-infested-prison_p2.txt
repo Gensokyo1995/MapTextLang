@@ -3,6 +3,7 @@
 	"[Grab a gun from the armory! We need to move.]"
 	{
 		"chi"		"**出门直接往没有门的那条路走 翻译：dy2084**"
+		"DoorCountdown"		"-1"
 	}
 	"[Remember! No man gets left behind.]"
 	{
@@ -46,7 +47,7 @@
 	}
 	"[Airstrike Inbound: ETA 1 minute.]"
 	{
-		"chi"		"**1分钟后开始空袭**"
+		"chi"		"**60秒后开始空袭**"
 	}
 	"[Get through that gate up ahead and don't let them in.]"
 	{
@@ -86,23 +87,23 @@
 	}
 	"[Dont let them through! Get into the freezer ASAP.]"
 	{
-		"chi"		"** **"
+		"chi"		"**别让他们进来，快到冷冻室里去**"
 	}
 	"[Dont touch those lasers!]"
 	{
-		"chi"		"** **"
+		"chi"		"**不要碰那些激光（我就不信你不碰）**"
 	}
 	"[Get through that gate up ahead and dont let them in.]"
 	{
-		"chi"		"** **"
+		"chi"		"**直接跑到很多箱子的房间里**"
 	}
 	"[Grab some nades and blow the limbs off em.]"
 	{
-		"chi"		"** **"
+		"chi"		"**这边有很多手雷，随便丢**"
 	}
 	"[Theres fumes going through the vents! Get out of there!]"
 	{
-		"chi"		"** **"
+		"chi"		"**有烟雾透过排气孔飘出来了！快离开这！**"
 	}
 	"**[5]**"
 	{
@@ -110,14 +111,14 @@
 	}
 	"[Suicide Bombers Inbound: ETA 1 Minute.]"
 	{
-		"chi"		"** **"
+		"chi"		"**60秒后开始空袭**"
 	}
 	"[Freezers Closed!]"
 	{
-		"chi"		"** **"
+		"chi"		"**冷冻室关上了！ **"
 	}
 	"[Freezers Open!]"
 	{
-		"chi"		"** **"
+		"chi"		"**冷冻室打开了 **"
 	}
 }
